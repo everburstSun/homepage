@@ -1,36 +1,31 @@
 # Software
-Software Packages
+Numerous software packages and tools have been developed in the context of different projects of the Kohlbacher Lab.
 
 ## OpenMS
-Open-source software for mass spectrometry analysis.\
+[OpenMS](./open-ms.md) is an open-source software for mass spectrometry analysis.\
 Project Website: https://www.openms.de\
 Repository: https://github.com/OpenMS/OpenMS
-## BALL
-Biochemical Algorithms Library in C++ for Rapid Software Prototyping.\
-Project Website: https://ball-project.org\
-Repository: https://github.com/BALL-Project
+
 ## Fred2
-Python-based framework for computational immunomics.\
+[Fred2](./fred-2.md) is a python-based framework for computational immunomics.\
 Project Website: https://fred-2.github.io\
 Repository: https://github.com/FRED-2/Fred2
 
-# Webserver
+## Claudio
+[CLAUDIO](./claudio.md) is a tool for structural analysis, mapping, validation, visualization, and modeling of protein cross-links on protein and protein-protein interaction.\
+Repository: https://github.com/KohlbacherLab/CLAUDIO
 
-## NRPSpredictor2
-A program to predict adenylation domain specificity from sequence.
-Webservice: https://abi-services.cs.uni-tuebingen.de/nrps2/Controller?cmd=SubmitJob
+## DNPM:DIP 
+The [Data Integration Platform](./dnpm-dip.md) (DIP) for the German Network of Personalized Medicine (DNPM).\
+Project Website: https://docs.dnpm-dip.net/\
+Repository: https://github.com/dnpm-dip
 
-## MultiLoc2
-Integrating phylogeny and Gene Ontology terms improves subcellular protein localization prediction.
-Webservice: https://abi-services.cs.uni-tuebingen.de/multiloc2/webloc.cgi
-Repository: https://github.com/KohlbacherLab/MultiLoc2
 
-## SherLoc2
-A high-accuracy hybrid method for predicting subcellular localization of proteins.
-Webservice: https://abi-services.cs.uni-tuebingen.de/sherloc2/webloc.cgi
-Repository: https://github.com/KohlbacherLab/SherLoc2
+## FLAME
+[FLAME](./flame.md) (Federated Learning and Analyses in Medicine) is the open-source core of the [PrivateAIM](../projects/privateaim.md) initiative, enabling secure, decentralized data analysis across institutions without sharing patient data.\
+Code: https://github.com/PrivateAim \
+Documentation: https://docs.privateaim.net/
 
-## YLoc
-An interpretable web server for predicting subcellular localization.
-Repository: https://github.com/KohlbacherLab/YLoc
-
+## XLEC
+[XLEC](./xlec.md) is an integrative approach combining cross-linking data and evolutionary couplings for large-scale prediction and modeling of protein-protein interactions.
+Repository: https://github.com/KohlbacherLab/XLEC
